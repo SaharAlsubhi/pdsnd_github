@@ -1,5 +1,5 @@
 ### Date created
-Include the date you created this project and README file.
+9/Feb/2021
 
 ### Project Title
 Explore US Bikeshare Data
@@ -13,5 +13,6 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+* [Udacity](https://udacity.com) - Udacity's Connect - Programming for Data Science Nanodegree Program and its instructors.
+* [Aritra96](https://github.com/Aritra96/bikeshare-project) - Aritra96's repository helped with understanding the structure and details of some functions.
 
