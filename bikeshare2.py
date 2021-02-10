@@ -177,7 +177,7 @@ def user_stats(df):
 
 
 def display_data(df):
-    data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
+    Show_Data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n')
     start_loc = 0
     while True:
         print(df.iloc[0:5])
